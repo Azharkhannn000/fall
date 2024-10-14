@@ -1,0 +1,50 @@
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrJkNtGaN_Ndt9C5wYjbf6bNHLMcbf55oQBQ&s);
+    background-size: 700px;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    background-color: rgb(255, 123, 0);
+    margin-top: 200px;
+    margin-bottom: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.one{
+    text-align: center;
+    margin: 30px;
+    color: white;
+}
+.cont{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+.days{
+    border-radius: 10px;
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    padding: 5px;
+}
+.hours{
+    border-radius: 10px;
+    background-color: white;
+    width: 100px;
+    margin: 10px;
+    padding: 5px;
+}
+.minutes{
+    background-color: white;
+    border-radius: 10px;
+    width: 100px;
+    margin: 10px;
+    padding: 5px;
+}
+.seconds{
+    background-color: white;
+    border-radius: 10px;
+    width: 100px;
+    margin: 10px;
+    padding: 5px;
+}
